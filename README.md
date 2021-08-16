@@ -1,2 +1,4 @@
-<h1 align="center">libraryManagement</h1>
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" width="500" height="600">
+<h1 align="center">Library Management</h1>
+<div align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" width="200" height="300">
+</div>
